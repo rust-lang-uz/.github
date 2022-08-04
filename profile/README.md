@@ -1,1 +1,1 @@
-![Rusty Hero Image](../images/banner.png)
+![Rusty Hero Image](../images/welcome.png)
